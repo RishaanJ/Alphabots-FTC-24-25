@@ -8,7 +8,7 @@ Welcome to the official repository for the Alphabots FTC 2024-2025 season! We ar
 - **Team Name:** Alphabots
 - **Team Number:** 19639
 - **Season:** 2024-2025
-- **Captain:** Rishaan Jain
+- **Captain:** Suhas Bathini
 - **Roles:**
   - Software Lead: Rishaan Jain
   - Hardware Lead: Shiv Gurjar
